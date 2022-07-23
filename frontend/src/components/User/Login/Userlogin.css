@@ -1,0 +1,41 @@
+.loginuser {
+  height: 713px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.formuser {
+  padding: 50px 30px;
+  width: 25%;
+}
+.pointer:hover {
+  cursor: pointer;
+}
+#numberinput {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  width: 100%;
+  height: 35px;
+  margin-bottom: 20px;
+}
+.submitbtn {
+  width: 100%;
+  height: 40px;
+  border-radius: 10px;
+  background-color: orange;
+  border: none;
+}
+.sponsored{
+  margin-top: 15%;
+}
+.sponsored h1{
+  margin-left: 85px;
+}
+.sponsored img{
+  width: 99%;
+  margin: 8px auto;
+}
+
